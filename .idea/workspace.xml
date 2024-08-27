@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dfbe8ca-bbaf-42de-a2a2-e84a7ce71a3e" name="Changes" comment="Initial commit" />
+    <list default="true" id="6dfbe8ca-bbaf-42de-a2a2-e84a7ce71a3e" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Day3 - Classification Algorithms/boxplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3 - Classification Algorithms/heatmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3 - Classification Algorithms/pairplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3 - Classification Algorithms/violinplot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3 - Classification Algorithms/classificationAlgorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3 - Classification Algorithms/classificationAlgorithms.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +113,8 @@
       <workItem from="1722069138203" duration="5000" />
       <workItem from="1722078267135" duration="767000" />
       <workItem from="1724665139672" duration="138000" />
-      <workItem from="1724666270599" duration="303000" />
+      <workItem from="1724666270599" duration="377000" />
+      <workItem from="1724740493690" duration="2068000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -132,11 +140,30 @@
       <option name="project" value="LOCAL" />
       <updated>1724666503400</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1724666589763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724666589763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
