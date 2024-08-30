@@ -1,0 +1,7 @@
+Proje Amacı: Bu projenin amacı, kümeleme teknikleri kullanarak müşteri segmentasyonu yapmaktır.
+Bu sayede, müşterileri satın alma davranışlarına ve
+demografik bilgilerine göre gruplara ayırabileceğiz.
+
+Veri Seti: Mall Customer Segmentation veri setini kullanacağız.
+Bu veri seti, müşterilerin cinsiyet, yaş, yıllık gelir ve
+harcama puanları gibi bilgilerini içerir.
